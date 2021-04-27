@@ -13,4 +13,10 @@
 '''
 >I really don't know
 >>How to make the code
->>>Efficient!
+>>>Valid!
+*bulleted1
+*bulleted2
+*bulleted3
+1.numbered1
+2.numbered2
+3.numbered3
