@@ -19,10 +19,10 @@
 * bulleted2
 * bulleted3
 
-1. numbered1
-2. numbered2
-3. numbered3
+1. **Boldface**
+2. *Italics*
+3. ~~Interesting~~
 
-**Boldface**
-*Italics*
-~~Interesting~~
+
+
+
