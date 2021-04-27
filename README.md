@@ -1,3 +1,3 @@
 # First-Inventory
 My first repository.......
-[Second File](https://github.com/lzsheep-1230/First-Inventory/blob/main/Second%20File)
+[Second File](https://github.com/lzsheep-1230/First-Inventory/edit/main/Second%20File.md)
