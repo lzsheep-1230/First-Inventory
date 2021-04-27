@@ -12,8 +12,8 @@
   }
 '''
 >I really don't know
->>How to make the code
->>>Valid!
+>>How to make the code segment
+>>>Valid!!!!!
 
 * bulleted1
 * bulleted2
@@ -22,3 +22,7 @@
 1. numbered1
 2. numbered2
 3. numbered3
+
+**Boldface**
+*Italics*
+~~ ~ ~~
